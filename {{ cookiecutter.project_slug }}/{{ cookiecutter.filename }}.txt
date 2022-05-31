@@ -1,1 +1,1 @@
-Cool beans! {{ cookiecutter.version}
+Cool beans! {{ cookiecutter.version }}
